@@ -4,26 +4,28 @@
     "id": "rail-map-painter",
     "document_version": 80
   },
-  "map_revision": "sha256:ea26faf2bb455a6319e236f538f1e5d3da700500e101e386a9855fa9701c1bc3",
-  "base_map_revision": null,
-  "base_commit_sha": null,
-  "operation_id": "bootstrap-2026-10-06",
-  "contributor_display_name": "ofts-cqm",
-  "summary": "Import the current administrator-supplied metro map",
-  "selected_issue_numbers": [],
-  "created_at": "2026-10-06T13:40:39Z",
+  "map_revision": "sha256:4d23faa32420753cf7b712d6c2ac5e5d815e4f398034956734a7cd0d352f9651",
+  "base_map_revision": "sha256:ea26faf2bb455a6319e236f538f1e5d3da700500e101e386a9855fa9701c1bc3",
+  "base_commit_sha": "0f1848d30952bd0857a265867473db8586a911bd",
+  "operation_id": "8943e2c2-67e6-4c0c-b5a3-6c6051cb0ef4",
+  "contributor_display_name": "OFTS_CQM",
+  "summary": "1234123423",
+  "selected_issue_numbers": [
+    2
+  ],
+  "created_at": "2026-10-06T20:37:12.598Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "d77a97be17eedcc438c676ac356aa9782a33d12902f8aabecab6458091d80b7d",
-      "bytes": 198454
+      "sha256": "c14b4179b35259134e3e5bbd8ddd84ca9d82c3f4893fa34c1ddc29726a1c10c4",
+      "bytes": 199395
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "678d1fb7a9555be80e07549ed0f2c733807577e496d53e51ab55ea539da747bc",
-      "bytes": 7362193,
-      "width": 17577,
-      "height": 9095
+      "sha256": "7a2c575f3f5a845e103017c8c0d7f8d893f4d8ec0713117117e02d3aedada281",
+      "bytes": 2749435,
+      "width": 8786,
+      "height": 4548
     }
   }
 }
