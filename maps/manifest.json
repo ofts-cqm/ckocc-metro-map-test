@@ -4,21 +4,19 @@
     "id": "rail-map-painter",
     "document_version": 80
   },
-  "map_revision": "sha256:0304e9194a499b6e964de60b60443c5dc5ee418d4311bc50b322782bdc88eb52",
-  "base_map_revision": "sha256:ea26faf2bb455a6319e236f538f1e5d3da700500e101e386a9855fa9701c1bc3",
-  "base_commit_sha": "a6f0b34ed82784d60fa63684c6c351622b2f3539",
-  "operation_id": "e3cb018d-c505-413f-8189-8faedbcd668d",
+  "map_revision": "sha256:fdc025a8d5482ac01fe7daa25dd0416fb741c5c6e2bdbf82cb8f9fbe0f0a7fc7",
+  "base_map_revision": "sha256:0304e9194a499b6e964de60b60443c5dc5ee418d4311bc50b322782bdc88eb52",
+  "base_commit_sha": "b55102c9509287b630a4fc30f973bc890927fc3d",
+  "operation_id": "0985027a-f6ad-4389-b181-8706b6a67211",
   "contributor_display_name": "OFTS_CQM",
-  "summary": "12342452345",
-  "selected_issue_numbers": [
-    6
-  ],
-  "created_at": "2026-10-06T20:46:41.556Z",
+  "summary": "Live merge/rollback test B (77be1450)",
+  "selected_issue_numbers": [],
+  "created_at": "2026-10-10T20:09:49.035Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "f88ee91ae653010b817546dae73c55966d4f992503a0a8923be0cfadf054b708",
-      "bytes": 199154
+      "sha256": "9933ed4d5e76548ec61cc2352c5cd1aa8da3a7a3c7a1caf8cbdf332e5a4ea81a",
+      "bytes": 199158
     },
     "png": {
       "path": "maps/network.png",
