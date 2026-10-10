@@ -4,14 +4,16 @@
     "id": "rail-map-painter",
     "document_version": 80
   },
-  "map_revision": "sha256:0304e9194a499b6e964de60b60443c5dc5ee418d4311bc50b322782bdc88eb52",
-  "base_map_revision": "sha256:81378c314792f33831b41bc46a959d3106c3fc85f73714424e123b88a6b85bda",
-  "base_commit_sha": "2565fcadec955227e0ee13ca7cc1a441fd047173",
-  "operation_id": "e2c3c000-e4e5-4ced-8693-66e067cf5b7b",
-  "contributor_display_name": "OFTS_CQM",
-  "summary": "Restore map before PR 10",
-  "selected_issue_numbers": [],
-  "created_at": "2026-10-10T20:12:49.327Z",
+  "map_revision": "sha256:1f50e808627fbb80e6ade91348faccfeb693e034d9840b50e92e3f22e7cdad87",
+  "base_map_revision": "sha256:0304e9194a499b6e964de60b60443c5dc5ee418d4311bc50b322782bdc88eb52",
+  "base_commit_sha": "fbbd9a480c8f2e8a44b1a18fcc8a0af86d7cbb0d",
+  "operation_id": "c09b45d0-5738-4ce8-9f24-1cca214f284b",
+  "contributor_display_name": "CQM_OFTS",
+  "summary": "1234",
+  "selected_issue_numbers": [
+    9
+  ],
+  "created_at": "2026-10-10T20:25:09.695Z",
   "files": {
     "json": {
       "path": "maps/network.json",
@@ -20,10 +22,10 @@
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "c4ce66e5fe39956e3d107eb5affbbf0b6fe2e953ba0b4d38312319103ba785ef",
-      "bytes": 2756584,
-      "width": 8786,
-      "height": 4548
+      "sha256": "f70973058940ea3695c1a318a1229f75c68d502265bd7c88eff49d010614414f",
+      "bytes": 273005,
+      "width": 2559,
+      "height": 1599
     }
   }
 }
