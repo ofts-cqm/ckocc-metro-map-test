@@ -4,28 +4,28 @@
     "id": "rail-map-painter",
     "document_version": 80
   },
-  "map_revision": "sha256:1f50e808627fbb80e6ade91348faccfeb693e034d9840b50e92e3f22e7cdad87",
-  "base_map_revision": "sha256:0304e9194a499b6e964de60b60443c5dc5ee418d4311bc50b322782bdc88eb52",
-  "base_commit_sha": "fbbd9a480c8f2e8a44b1a18fcc8a0af86d7cbb0d",
-  "operation_id": "c09b45d0-5738-4ce8-9f24-1cca214f284b",
-  "contributor_display_name": "CQM_OFTS",
-  "summary": "1234",
+  "map_revision": "sha256:b1cac9f1c373e9bafda6fdaddb1ec92565d4d33b9ed251dd8a7d6425210d07b2",
+  "base_map_revision": "sha256:1f50e808627fbb80e6ade91348faccfeb693e034d9840b50e92e3f22e7cdad87",
+  "base_commit_sha": "39f3be9967437bdc29a57e49f4c962257087c0cc",
+  "operation_id": "50137d19-13d0-4c3b-b6bb-d1daee7e0eb1",
+  "contributor_display_name": "OFTS_CQM",
+  "summary": "sfdghj",
   "selected_issue_numbers": [
-    9
+    8
   ],
-  "created_at": "2026-10-10T20:25:09.695Z",
+  "created_at": "2026-10-14T13:29:36.858Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "f88ee91ae653010b817546dae73c55966d4f992503a0a8923be0cfadf054b708",
-      "bytes": 199154
+      "sha256": "078bb131d61f2ec93dd500b9bee372c2fc76f9741411ec84ac9bcf47503cf6e9",
+      "bytes": 206196
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "f70973058940ea3695c1a318a1229f75c68d502265bd7c88eff49d010614414f",
-      "bytes": 273005,
-      "width": 2559,
-      "height": 1599
+      "sha256": "8002e04be5826a57f9433ca11e9b9ab2f36c12dbb40aa664391487ae0997439c",
+      "bytes": 103641,
+      "width": 416,
+      "height": 382
     }
   }
 }
