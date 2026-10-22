@@ -2,30 +2,28 @@
   "schema_version": 1,
   "editor": {
     "id": "rail-map-painter",
-    "document_version": 80
+    "document_version": 81
   },
-  "map_revision": "sha256:b1cac9f1c373e9bafda6fdaddb1ec92565d4d33b9ed251dd8a7d6425210d07b2",
-  "base_map_revision": "sha256:1f50e808627fbb80e6ade91348faccfeb693e034d9840b50e92e3f22e7cdad87",
-  "base_commit_sha": "39f3be9967437bdc29a57e49f4c962257087c0cc",
-  "operation_id": "50137d19-13d0-4c3b-b6bb-d1daee7e0eb1",
+  "map_revision": "sha256:e38e997dbccd4d136d5f9b98c8809d3ff78e0cd71d2119d98cbd96c1e988c9a4",
+  "base_map_revision": "sha256:b1cac9f1c373e9bafda6fdaddb1ec92565d4d33b9ed251dd8a7d6425210d07b2",
+  "base_commit_sha": "b53119cc01a9b90301b87e5c76188c245ce3ec10",
+  "operation_id": "c0d1fde2-def2-47b7-be14-37a19a616d37",
   "contributor_display_name": "OFTS_CQM",
-  "summary": "sfdghj",
-  "selected_issue_numbers": [
-    8
-  ],
-  "created_at": "2026-10-14T13:29:36.858Z",
+  "summary": "123",
+  "selected_issue_numbers": [],
+  "created_at": "2026-10-22T21:59:45.403Z",
   "files": {
     "json": {
       "path": "maps/network.json",
-      "sha256": "078bb131d61f2ec93dd500b9bee372c2fc76f9741411ec84ac9bcf47503cf6e9",
-      "bytes": 206196
+      "sha256": "70fa1a54f8a257530b30c5b5258be575f59b263cdced77d8d8a05d418dc3872f",
+      "bytes": 219658
     },
     "png": {
       "path": "maps/network.png",
-      "sha256": "8002e04be5826a57f9433ca11e9b9ab2f36c12dbb40aa664391487ae0997439c",
-      "bytes": 103641,
-      "width": 416,
-      "height": 382
+      "sha256": "f64c6d325feecf34ae42265b0306c867420a691ce8eeefd1f17eaf7dbea44383",
+      "bytes": 401027,
+      "width": 2560,
+      "height": 1588
     }
   }
 }
