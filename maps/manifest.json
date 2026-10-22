@@ -1,31 +1,29 @@
 {
-  "schema_version": 1,
-  "editor": {
-    "id": "rail-map-painter",
-    "document_version": 80
-  },
-  "map_revision": "sha256:b1cac9f1c373e9bafda6fdaddb1ec92565d4d33b9ed251dd8a7d6425210d07b2",
-  "base_map_revision": "sha256:1f50e808627fbb80e6ade91348faccfeb693e034d9840b50e92e3f22e7cdad87",
-  "base_commit_sha": "39f3be9967437bdc29a57e49f4c962257087c0cc",
-  "operation_id": "50137d19-13d0-4c3b-b6bb-d1daee7e0eb1",
-  "contributor_display_name": "OFTS_CQM",
-  "summary": "sfdghj",
-  "selected_issue_numbers": [
-    8
-  ],
-  "created_at": "2026-10-14T13:29:36.858Z",
-  "files": {
-    "json": {
-      "path": "maps/network.json",
-      "sha256": "078bb131d61f2ec93dd500b9bee372c2fc76f9741411ec84ac9bcf47503cf6e9",
-      "bytes": 206196
+    "schema_version": 1,
+    "editor": {
+        "id": "rail-map-painter",
+        "document_version": 80
     },
-    "png": {
-      "path": "maps/network.png",
-      "sha256": "8002e04be5826a57f9433ca11e9b9ab2f36c12dbb40aa664391487ae0997439c",
-      "bytes": 103641,
-      "width": 416,
-      "height": 382
+    "map_revision": "sha256:61460b7d42bcb0a0dbe124cba62eb7444fa3f4299bc009286c3db00d37eebd47",
+    "base_map_revision": "sha256:b1cac9f1c373e9bafda6fdaddb1ec92565d4d33b9ed251dd8a7d6425210d07b2",
+    "base_commit_sha": "5e7d9f570df1e7e1aae3fbd78a321178a3432093",
+    "operation_id": "0d37e6fe-327d-4a38-a4f1-8fc0ad740b57",
+    "contributor_display_name": "Maintenance acceptance",
+    "summary": "Disposable maintenance catch-up acceptance",
+    "selected_issue_numbers": [],
+    "created_at": "2026-10-22T22:33:11.017Z",
+    "files": {
+        "json": {
+            "path": "maps/network.json",
+            "bytes": 206197,
+            "sha256": "5106a78977c644e0923ba253a0645dddf7e3372e4476ae856dcf495e29cb228d"
+        },
+        "png": {
+            "path": "maps/network.png",
+            "bytes": 103641,
+            "sha256": "8002e04be5826a57f9433ca11e9b9ab2f36c12dbb40aa664391487ae0997439c",
+            "width": 416,
+            "height": 382
+        }
     }
-  }
 }
